@@ -1,0 +1,135 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_162&quot;" />
+      <homePath value="/opt/java/jdk1.8.0_162" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///opt/java/jdk1.8.0_162/src.zip!/" type="simple" />
+            <root url="jar:///opt/java/jdk1.8.0_162/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (tensorrt)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.5" />
+      <homePath value="$USER_HOME$/anaconda3/envs/tensorrt/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/tensorrt/lib/python3.5" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/tensorrt/lib/python3.5/plat-linux" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/tensorrt/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/tensorrt/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/383205545" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/LGDisplay/source/python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/bin" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-28.8.0-py2.7.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages/pycuda-2017.1.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/dist-packages/appdirs-1.4.3-py2.7.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages/pytest-3.4.2-py2.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages/pytools-2018.2-py2.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages/funcsigs-1.0.2-py2.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages/pluggy-0.6.0-py2.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages/attrs-17.4.0-py2.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages/py-1.5.2-py2.7.egg" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/gst-0.10" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" type="simple" />
+            <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
